@@ -44,11 +44,11 @@ and success criteria  of our project.
 #### Initial Dashboard
 
 ---
-<img src="https://github.com/VelpulaVishnu/Sales-Analytics/blob/main/resources/Before%20updated%20dashboard.gif" width="550" class="center">
+<img src="https://github.com/VelpulaVishnu/Sales-Analytics/blob/main/resources/Before%20updated%20dashboard.gif" width="800" class="center">
 
 #### Updated Dashboard
 
 ---
-<img src="(https://github.com/VelpulaVishnu/Sales-Analytics/blob/main/resources/updated%20dashboard.gif)" width="550" class="center">
+<img src="https://github.com/VelpulaVishnu/Sales-Analytics/blob/main/resources/updated%20dashboard.gif" width="800" class="center">
 
 
